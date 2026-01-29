@@ -6,7 +6,7 @@
 
 *Building intelligent systems and scalable backend solutions*
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ephrem-alemayehu](http://linkedin.com/in/ephrem-alemayehu-75557b38a)))](http://linkedin.com/in/ephrem-alemayehu-75557b38a))))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ephrem-alemayehu](http://linkedin.com/in/ephrem-alemayehu-75557b38a)))]
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ephrem823.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epaalemayehu@gmail.com)
 
@@ -142,7 +142,7 @@ I'm interested in:
 **Open to collaborations and opportunities!**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epalemayehu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ephrem-alemayehu](http://linkedin.com/in/ephrem-alemayehu-75557b38a)))](http://linkedin.com/in/ephrem-alemayehu-75557b38a))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ephrem-alemayehu](http://linkedin.com/in/ephrem-alemayehu-75557b38a)))]
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ephrem823.github.io)
 
 ---
