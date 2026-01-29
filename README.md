@@ -2,12 +2,13 @@
   
 # 👋 Ephrem Alemayehu
 
-**📊 Data Scientist | 🔧 Backend Developer | 🇪🇹 NLP Specialist**
+**📊 Data Scientist | 🔧 Backend Developer | 💻 ML Engineer**
 
-*Building intelligent solutions for Amharic and Ethiopian languages*
+*Building intelligent systems and scalable backend solutions*
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephrem-alemayehu-75557b38a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ephrem-alemayehu](http://linkedin.com/in/ephrem-alemayehu-75557b38a)))](http://linkedin.com/in/ephrem-alemayehu-75557b38a))))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ephrem823.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epaalemayehu@gmail.com)
 
 </div>
 
@@ -15,12 +16,39 @@
 
 ## 🎯 About Me
 
-I'm a **Data Scientist at INSA** (Information Network Security Administration) combining machine learning expertise with backend development. I specialize in building NLP systems for **Amharic and Ethiopian languages**.
+I'm a **Backend Developer & Data Scientist** with expertise in building scalable APIs and intelligent systems. Specializing in **Python, Express.js, and Machine Learning** with a focus on **NLP and full-stack development**.
 
-- 🔭 Currently working on **cybersecurity threat detection** and **NLP for low-resource languages**
-- 🌱 Learning **advanced system design** and **scalable API architecture**
-- 👯 Open to collaborate on **Ethiopian language technology** projects
-- 💬 Ask me about **Python, NLP, REST APIs, Machine Learning**
+- 🔭 Currently working on **backend API architecture** and **machine learning projects**
+- 🌱 Learning **advanced system design** and **cloud deployment strategies**
+- 👯 Open to collaborate on **backend systems**, **NLP**, and **data science** projects
+- 💬 Ask me about **Python, Express.js, Django, Flask, Machine Learning, REST APIs**
+- 📍 Based in **Addis Ababa, Ethiopia** 🇪🇹
+
+---
+## 💼 Work Experience
+
+### 🛡️ Data Science Intern @ INSA
+**Information Network Security Administration**
+*October 2025 - January 2026 | Addis Ababa, Ethiopia*
+
+#### About the Role
+Internship focused on cybersecurity threat detection and data analysis for national critical infrastructure protection.
+
+#### Key Responsibilities
+- 📊 Analyzing cyber threat data and security intelligence
+- 🤖 Building machine learning models for threat detection and anomaly detection
+- 📈 Processing and cleaning large-scale security datasets
+- 🔒 Supporting national critical infrastructure protection initiatives
+- 📉 Developing predictive models for security incidents
+- 📋 Creating data visualizations and reports for stakeholders
+
+#### Skills Gained
+- Data Analysis & Processing
+- Machine Learning Model Development
+- Cybersecurity Threat Analysis
+- Python Data Science Stack (pandas, scikit-learn, NumPy)
+- Data Visualization
+- Statistical Analysis
 
 ---
 
@@ -28,10 +56,12 @@ I'm a **Data Scientist at INSA** (Information Network Security Administration) c
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0078D4?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Data Science & ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -40,46 +70,49 @@ I'm a **Data Scientist at INSA** (Information Network Security Administration) c
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### NLP & Tools
-![NLTK](https://img.shields.io/badge/NLTK-green?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square)
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎯 Amharic Question Answering System
-NLP system that answers questions in Amharic using TF-IDF and transformer models (NLLB-200).
+### 🤖 AMEK AI Engine
+Multi-model orchestration assistant for code generation, file analysis, and intelligent automation powered by LLMs.
 
-**Tech**: Python • scikit-learn • TF-IDF • Transformers • NLP
+**Tech**: Python • Streamlit • LLM APIs • OpenAI/Anthropic
 
----
-
-### 🌐 Bilingual Machine Translation
-English-Amharic translation system with automatic language detection.
-
-**Tech**: Python • NLLB-200 • Language Detection • Text Preprocessing
+🔗 **[View on GitHub →](https://github.com/ephrem823/my-ai-bot)**
 
 ---
 
-### 💼 Professional Portfolio
-Modern portfolio website showcasing my data science and backend projects.
+### 📚 Student Information System
+Full-stack system for managing student records, grades, and academic information. Backend API development with RESTful architecture.
 
-**Tech**: HTML5 • CSS3 • JavaScript • GitHub Pages
+**Tech**: Express.js • Node.js • MySQL • REST APIs
 
-🔗 **[Visit Portfolio →](https://ephrem823.github.io)**
+🔗 **[View on GitHub →](https://github.com/biniyam0960/Student-information-System)**
+
+---
+
+### 🎯 NLP & Machine Learning Projects
+Various projects in natural language processing, data analysis, and machine learning implementations.
+
+**Tech**: Python • scikit-learn • TensorFlow • Transformers
 
 ---
 
 ## 💼 Experience
 
-**Data Scientist @ INSA** *(Sep 2025 – Present)*
-- Analyzing cyber threat data and security intelligence
-- Developing ML models for threat detection
-- Supporting national critical infrastructure protection
+**Backend Developer & Data Scientist**
+- Designing and implementing REST APIs using Express.js and Django
+- Database optimization and query design (MySQL, PostgreSQL)
+- Building machine learning models and data analysis pipelines
+- Full-stack application development with modern tech stacks
 
 ---
 
@@ -91,8 +124,6 @@ Modern portfolio website showcasing my data science and backend projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ephrem823&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ephrem823)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ephrem823&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -100,18 +131,18 @@ Modern portfolio website showcasing my data science and backend projects.
 ## 🤝 Let's Connect
 
 I'm interested in:
-- 🤖 Machine learning and NLP projects
-- 🔧 Backend system design
-- 🌍 Ethiopian language technology
-- 💼 Remote work opportunities
+- 🔧 Backend system design and scalable APIs
+- 🤖 Machine learning and data science projects
+- 📊 Data analysis and visualization
+- 💼 Full-stack development opportunities
+- 🌍 Open source contributions
 
 <div align="center">
 
 **Open to collaborations and opportunities!**
 
-[![Email][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epaalemayehu@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephrem-alemayehu-75557b38a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epalemayehu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/ephrem-alemayehu](http://linkedin.com/in/ephrem-alemayehu-75557b38a)))](http://linkedin.com/in/ephrem-alemayehu-75557b38a))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ephrem823.github.io)
 
 ---
@@ -119,19 +150,3 @@ I'm interested in:
 ⭐ *If you find my projects helpful, please consider starring them!*
 
 </div>
-
-
-<!--
-**ephrem823/ephrem823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
