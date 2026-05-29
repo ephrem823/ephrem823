@@ -26,14 +26,14 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class EphremAlemayehu:
     def __init__(self):
         self.name       = "Ephrem Alemayehu"
         self.role       = ["Backend Developer", "Data Scientist", "ML Engineer"]
-        self.location   = "Addis Ababa, Ethiopia 🇪🇹"
+        self.location   = "Addis Ababa, Ethiopia "
         self.languages  = ["Python", "JavaScript", "SQL", "Bash"]
         self.focus      = ["NLP", "REST APIs", "Machine Learning", "Cybersecurity"]
         self.available  = True  # Open to opportunities
@@ -45,17 +45,17 @@ me = EphremAlemayehu()
 me.say_hi()
 ```
 
-- 🔭 Currently building **scalable backend APIs** and **ML-powered systems**
-- 🛡️ Former **Data Science Intern @ INSA** — national cybersecurity infrastructure
-- 🌱 Deepening expertise in **cloud deployment**, **LLMOps**, and **system design**
-- 💬 Talk to me about **Python · Django · Express.js · Machine Learning · NLP**
-- ⚡ Fun fact: I build AI tools that help other developers move faster
+-  Currently building **scalable backend APIs** and **ML-powered systems**
+-  Former **Data Science Intern @ INSA** — national cybersecurity infrastructure
+-  Deepening expertise in **cloud deployment**, **LLMOps**, and **system design**
+-  Talk to me about **Python · Django · Express.js · Machine Learning · NLP**
+-  Fun fact: I build AI tools that help other developers move faster
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🔧 Backend & APIs
+###  Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -64,13 +64,13 @@ me.say_hi()
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🤖 Data Science & ML
+###  Data Science & ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -90,10 +90,10 @@ me.say_hi()
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
-### 🛡️ Data Science Intern — INSA *(Information Network Security Administration)*
-📅 **October 2025 – January 2026** &nbsp;|&nbsp; 📍 Addis Ababa, Ethiopia
+###  Data Science Intern — INSA *(Information Network Security Administration)*
+ **October 2025 – January 2026** &nbsp;|&nbsp; 📍 Addis Ababa, Ethiopia
 
 > Focused on **cybersecurity threat detection** and **data analysis** for national critical infrastructure protection.
 
@@ -108,12 +108,12 @@ me.say_hi()
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AMEK AI Engine</h3>
+      <h3> AMEK AI Engine</h3>
       <p>Multi-model orchestration assistant for code generation, file analysis, and intelligent automation powered by LLMs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -168,7 +168,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
