@@ -244,7 +244,7 @@ I'm actively looking for opportunities in:
 
 <br/>
 
-** Reach out — I respond within 24 hours!**
+ Reach out — I respond within 24 hours!
 
 <br/>
 
