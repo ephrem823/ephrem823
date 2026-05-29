@@ -216,35 +216,35 @@ me.say_hi()
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  🔧  API Design       ████████████████████  Expert      │
-│  🐍  Python           ████████████████████  Expert      │
-│  🤖  Machine Learning ████████████████░░░░  Advanced    │
-│  🗄️  Databases        █████████████████░░░  Advanced    │
-│  📊  Data Analysis    █████████████████░░░  Advanced    │
-│  ☁️  Cloud/DevOps     ████████████░░░░░░░░  Growing     │
-│  🔒  Cybersecurity    ████████████░░░░░░░░  Growing     │
+│    API Design       ████████████████████  Expert      │
+│    Python           ████████████████████  Expert      │
+│    Machine Learning ████████████████░░░░  Advanced    │
+│    Databases        █████████████████░░░  Advanced    │
+│    Data Analysis    █████████████████░░░  Advanced    │
+│    Cloud/DevOps     ████████████░░░░░░░░  Growing     │
+│    Cybersecurity    ████████████░░░░░░░░  Growing     │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 I'm actively looking for opportunities in:
 
 | Area | Details |
 |---|---|
-| 🔧 Backend Engineering | Scalable REST APIs, microservices, system design |
-| 🤖 ML / AI Engineering | NLP, model deployment, LLM-powered apps |
-| 📊 Data Science | Analysis pipelines, predictive modeling |
-| 🌍 Open Source | Backend & ML-focused contributions |
+|  Backend Engineering | Scalable REST APIs, microservices, system design |
+|  ML / AI Engineering | NLP, model deployment, LLM-powered apps |
+|  Data Science | Analysis pipelines, predictive modeling |
+|  Open Source | Backend & ML-focused contributions |
 
 <div align="center">
 
 <br/>
 
-**📬 Reach out — I respond within 24 hours!**
+** Reach out — I respond within 24 hours!**
 
 <br/>
 
